@@ -404,7 +404,7 @@ logo = "logo.png"
       speed = 3000
 
     [[params.counters.item]]
-      description = "Coverages sq"
+      description = "Coverages K/m"
       icon = "icon-target"
       from = 0
       to = 130
