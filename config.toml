@@ -62,7 +62,7 @@ logo = "logo.png"
   [params.intro]
 
   [[params.intro.item]]
-    title = "up to 11Mbps + Fiber TV"
+    title = "11Mbps + Fiber TV"
     description = "Rs 3450 for 3 months"
     url = "http://www.ultranet.com.np/shop/online-exclusive/"
     target = "_blank"
