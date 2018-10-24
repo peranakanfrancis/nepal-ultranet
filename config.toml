@@ -62,7 +62,7 @@ logo = "logo.png"
   [params.intro]
 
   [[params.intro.item]]
-    title = "up to 11Mbps"
+    title = "up to 11Mbps + Fiber TV"
     description = "Rs 3450 for 3 months"
     url = "http://www.ultranet.com.np/shop/online-exclusive/"
     target = "_blank"
@@ -71,7 +71,7 @@ logo = "logo.png"
     img = "online-exclusive.jpg"
 
   [[params.intro.item]]
-    title = "up to 6Mbps"
+    title = "up to 6Mbps + Fiber TV"
     description = "Rs 600/month for 12 months"
     url = "http:/www.ultranet.com.np/shop/fibre-for-student/"
     target = "_blank"
@@ -80,7 +80,7 @@ logo = "logo.png"
     img = "student-fibre.jpg"
 
   [[params.intro.item]]
-    title = "up to 11Mbps"
+    title = "up to 11Mbps + Fiber TV"
     description = "Rs 900/month for 12 months"
     url = "http://www.ultranet.com.np/shop/fibre-for-home/"
     target = "_blank"
@@ -90,7 +90,7 @@ logo = "logo.png"
     identity = "11mbps"
 
   [[params.intro.item]]
-    title = "up to 22Mbps"
+    title = "up to 22Mbps + Fiber TV"
     description = "1"
     url = "http://www.ultranet.com.np/shop/fibre-for-startups/"
     target = "_blank"
@@ -100,7 +100,7 @@ logo = "logo.png"
     identity = "22mbps"
 
   [[params.intro.item]]
-    title = "up to 33Mbps"
+    title = "up to 33Mbps + Fiber TV"
     description = "Rs 1300/month for 12 months"
     url = "http://www.ultranet.com.np/shop/fibre-for-cafe/"
     target = "_blank"
@@ -110,7 +110,7 @@ logo = "logo.png"
     identity = "33mbps"
 
   [[params.intro.item]]
-    title = "up to 44Mbps"
+    title = "up to 44Mbps + Fiber TV"
     description = "Rs 1500/month for 12 months"
     url = "http://www.ultranet.com.np/shop/fibre-for-business/"
     target = "_blank"
